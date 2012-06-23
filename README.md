@@ -14,5 +14,5 @@ Coming soon!
 
 ### Timeline
 
-v 0.1 - Implement 'install' syncronization
-v 0.2 - Implement 'remove' syncronization
+* v 0.1 - Implement 'install' syncronization
+* v 0.2 - Implement 'remove' syncronization
